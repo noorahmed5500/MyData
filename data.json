@@ -7,7 +7,7 @@
         "Timing": "9 Am - 3 Pm",
         "Phone":"03042781208",
         "Location": "Markhpur",
-        "imgurl": "./src/images/mypic.jpg"
+        "imgurl": "https://www.cutout.pro/passport-photo-maker"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "Timing": "10 Am - 9 Pm",
         "Phone":"03042781215",
         "Location": "Ghariabad",
-        "imgurl": "./src/images/mypic.jpg"
+        "imgurl": "https://www.cutout.pro/passport-photo-maker"
     },
     {
         "id": 3,
@@ -27,6 +27,6 @@
         "Timing": "11 Am - 6 Pm",
         "Phone":"03223481208",
         "Location": "Monder",
-        "imgurl": "./src/images/mypic.jpg"
+        "imgurl": "https://www.cutout.pro/passport-photo-maker"
     }
 ]
