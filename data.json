@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Noor Ahmed",
+        "expert": "Heart Speciallist",
+        "Available": "Monday to Saturday",
+        "Timing": "9 Am - 3 Pm",
+        "Phone":"03042781208",
+        "Location": "Markhpur",
+        "imgurl": "./src/images/mypic.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Khan Muhammad",
+        "expert": "Cancer Speciallist",
+        "Available": "Friday to Saturday",
+        "Timing": "10 Am - 9 Pm",
+        "Phone":"03042781215",
+        "Location": "Ghariabad",
+        "imgurl": "./src/images/mypic.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ahmed Khan",
+        "expert": "Eye Speciallist",
+        "Available": "Monday to Friday",
+        "Timing": "11 Am - 6 Pm",
+        "Phone":"03223481208",
+        "Location": "Monder",
+        "imgurl": "./src/images/mypic.jpg"
+    }
+]
